@@ -2,7 +2,7 @@ package estruturas.sequenciais;
 
 import java.util.Locale;
 
-public class Aula24Exercicio {
+public class Aula24Ex1 {
 	public static void main(String[] args) {
 		String product1 = "Computer";
 		String product2 = "Office desk";
